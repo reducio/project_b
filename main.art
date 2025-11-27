@@ -1,3 +1,4 @@
 obj Pet {
-  name: String
+  name: String,
+  age: Number
 }
