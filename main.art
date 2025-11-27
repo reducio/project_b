@@ -1,0 +1,3 @@
+obj Pet {
+  name: String
+}
